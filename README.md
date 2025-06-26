@@ -92,7 +92,7 @@ Pontue sobrevivendo, colete sementes e use a arma especial para enfrentar a prag
 ```bash
 pip install pygame
 pip install numpy
-
+```
 
 📂 Estrutura do Código
 
